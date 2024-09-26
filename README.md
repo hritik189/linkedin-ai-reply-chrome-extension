@@ -70,3 +70,9 @@ Feel free to contribute to the project! Open issues or submit pull requests for 
 
 You can watch a video demonstration of the extension here: 
 
+
+https://github.com/user-attachments/assets/0f435f6f-773c-4944-a710-6c73b3a16059
+
+
+
+
